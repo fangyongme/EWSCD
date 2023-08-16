@@ -2,9 +2,6 @@ site_name: 英文词义分类数据库
 repo_url: https://github.com/fangyongme/EWSCD
 edit_uri: edit/main/docs/
 
-nav:
-  - Home: docs/index.md
-  - About: about.md
 
 theme:
     name: material
