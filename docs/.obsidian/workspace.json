@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "791c6eeefd5e139f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d728b5300d62aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d250370e1f86f3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce623567b2fed497",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf5fd8e73842110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde4d52ad782da4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "256232dff04d9253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "每次",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fc75caf679fa642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "11b2fb48c8fbe969",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d2cda60b8345dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2b2a13683cb30d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45daa92b048b6b55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43fe0478a2b44e0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-tts:Text to Speech": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "8d250370e1f86f3b",
+  "lastOpenFiles": [
+    "00总目录/000总目录全览.md",
+    "50达成意志/05目标 靶子.md",
+    "50达成意志/02工具 器具.md",
+    "50达成意志/01储存 留下.md",
+    "50达成意志/03应用 使用.md",
+    "50达成意志/04方法 方式.md",
+    "50达成意志/00达成意志组目录.md",
+    "50达成意志/06垃圾 废物.md",
+    "49几何状态/01循环 旋转.md",
+    "49几何状态/04拐弯 蜿蜒.md",
+    "49几何状态/05平直 直接.md",
+    "49几何状态/02滚翻 卷缠.md",
+    "49几何状态/06平滑 粗糙.md",
+    "49几何状态/00几何状态组目录.md",
+    "49几何状态/03弯曲 折叠.md",
+    "48记忆扩展/03名称 标志.md",
+    "48记忆扩展/01纪念 名声.md",
+    "48记忆扩展/05反映 象征.md",
+    "48记忆扩展/02命名 称为.md",
+    "48记忆扩展/00记忆扩展组目录.md",
+    "48记忆扩展/06记录 记载.md",
+    "48记忆扩展/04标记 符号.md",
+    "47获知信息/00获知信息组目录.md",
+    "47获知信息/02注意 关注.md",
+    "47获知信息/01知道 了解.md",
+    "46智力补遗/02感觉 感到.md",
+    "11生活相关/04生活用品",
+    "11生活相关/05宠物相关",
+    "11生活相关/02饮食相关",
+    "11生活相关/01衣着穿戴",
+    "11生活相关/08旅行游玩",
+    "11生活相关/03居住相关"
+  ]
+}
